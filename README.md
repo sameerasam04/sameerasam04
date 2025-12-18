@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 i have completed my graduation <br>- 🌱i am currently learning python from basics to advanced at **pythonlife** ... Typescript. <br>- 👯 i am focussing on improving my coding skills through hands on practice and continuous learning...💬br>- 📫 How to reach me: ...samysameera629@gmail.com
+- 🔭 i have completed my graduation <br>- 🌱i am currently learning python from basics to advanced at **pythonlife** ... Typescript. <br>- 👯 i am focussing on improving my coding skills through hands on practice and continuous learning... 📫 How to reach me: ...samysameera629@gmail.com
 
 
 ## 🌐 Socials:
