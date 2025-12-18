@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sameera-sam-165229395/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a herf="https://www.instagram.com/.sameera_._?igsh=MWV1bnJid2dmMXFlcw==/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a 
+<a href="https://www.linkedin.com/in/sameera-sam-165229395/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a herf="https://www.instagram.com/.sameera_._?igsh=MWV1bnJid2dmMXFlcw==/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <br><br>
 
 
